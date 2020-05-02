@@ -1,0 +1,54 @@
+body{
+margin: 0;	
+padding: 0;
+background-image: url();
+background-size: cover;
+	
+}
+.Home{
+	background-color:orange;
+}
+.about{
+	background-color:green;
+}
+.work{
+	background-color:yellow; 
+}
+.gallery{
+	background-color:purple;
+}
+.contacts{
+	background-color:blue;
+}
+.center p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+.center{
+	width: 500px;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:#333;
+}
+li{
+	float: right;
+h{
+	font-size: 40px;
+	background-position: :center;
+}
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 30px 20px;
+	text-decoration: none;
+}
+li a hover{
+	background-color: #111;
+}
