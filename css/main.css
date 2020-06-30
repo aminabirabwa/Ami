@@ -1,54 +1,151 @@
+/*html{
+	scroll-behavior: smooth;
+}*/
+
+
 body{
-margin: 0;	
-padding: 0;
-background-image: url();
-background-size: cover;
-	
+line-height: 30px;
+margin: 0px;	
+padding: 0px
+width:1200px;	
 }
-.Home{
-	background-color:orange;
+header{
+	background-color: black;
+	height: 100px;
+
+
+}
+ul li{
+	float: right;
+	display: inline-block;
+	list-style: none;
+
+
+}
+ul li a{
+	padding: 5px 20px;
+	text-decoration: none;
+	color: #fff;
+
+}
+.main-container{
+	font-family: 'opensans-regular',sans-serif;
+	min-height: 300px;
+	text-align: center;
+	color: white;
+	padding-top: 150px;
+	background-color:black; 
+}
+.contain{
+	background-color:;
+	margin-bottom: 100px;
+}
+
 }
 .about{
-	background-color:green;
+	/*margin: 0 auto;*/
+	background-color: pink;
+	/*height: 300px;*/
 }
-.work{
-	background-color:yellow; 
-}
-.gallery{
-	background-color:purple;
-}
-.contacts{
-	background-color:blue;
-}
-.center p {
-  line-height: 1.5;
-  display: inline-block;
-  vertical-align: middle;
-}
-.center{
-	width: 500px;
-}
-ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color:#333;
-}
-li{
-	float: right;
-h{
-	font-size: 40px;
-	background-position: :center;
-}
-}
-li a{
-	display: block;
-	color: white;
+.about h2 {
 	text-align: center;
-	padding: 30px 20px;
+}
+.about h3{
+	text-align: center;
+}
+.about p{
+	text-align: center;
+}
+.main-container h1{
+background: black;
+	width: 400px;
+	border: 15px solid red;
+	padding: 50px;
+	margin: 20px;
+	margin:0 auto;
+
+}
+.main-container p{
+font-size:40px;
+margin-top: 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.top-part a{
+	color: orange;
+}
+.top-part hr{
+	width: 600px;
+}
+.navigation-bar ul li a{
 	text-decoration: none;
 }
-li a hover{
-	background-color: #111;
+.nav ul{
+	float: right;
+	list-style-type: none;
+	margin: 40px;
 }
+.nav ul li a{
+	padding:8px 25px;
+	color: red;
+	font-size: 20px;
+	text-decoration: none;
+}
+.conntent{
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	width: 60%;
+	margin: 0 auto;
+}
+.about{
+	background-color: #3c3c3c;
+}
+
+.container{
+	text-align: center;
+	color: green;
+	padding-top: 200px;
+	width: 60%;
+	margin: 0 auto;
+	background-color: #f0f0f0;
+	
+
+}*/
