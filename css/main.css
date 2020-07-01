@@ -45,6 +45,8 @@ ul li a{
 .about{
 	/*margin: 0 auto;*/
 	background-color: pink;
+	width: 1600px;
+	height:275px;
 	/*height: 300px;*/
 }
 .about h2 {
@@ -69,6 +71,24 @@ background: black;
 font-size:40px;
 margin-top: 
 
+}
+.footer{
+	color:black;
+	background-color:grey;
+	width: 1600px;
+	height: 175px;
+	margin-bottom:.1px;
+	padding-bottom:80px;
+}
+.footer a{
+	font-size:40px;
+	padding:60px;
+	margin:.1px;
+	margin-top:.2rem;
+}
+.fa{
+	margin:170px;
+	margin-top:60px;
 }
 
 
